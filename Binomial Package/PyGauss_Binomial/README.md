@@ -1,23 +1,23 @@
-# PyDist
+# PyGauss_Binomial
 
-PyDist is a Python package that provides functionality for working with probability distributions. It includes classes for the Gaussian and Binomial distributions, along with general distribution calculations and visualizations.
+PyGauss_Binomial is a Python package that provides functionality for working with probability distributions. It includes classes for the Gaussian and Binomial distributions, along with general distribution calculations and visualizations.
 
 ## Installation
 
-To install PyDist, simply use pip:
+To install PyGauss_Binomial, simply use pip:
 
 
-pip install pydist
+pip install PyGauss_Binomial
 
 
 ## Gaussian Distribution
 
-The Gaussian class in PyDist represents a Gaussian distribution, also known as a normal distribution. It allows you to calculate and visualize the properties of the distribution, including mean, standard deviation, probability density function, and more.
+The Gaussian class in PyGauss_Binomial represents a Gaussian distribution, also known as a normal distribution. It allows you to calculate and visualize the properties of the distribution, including mean, standard deviation, probability density function, and more.
 
 ### Example Usage:
 
 python
-from pydist import Gaussian
+from pygauss_binomial import Gaussian
 
 # Create a Gaussian distribution with mean 0 and standard deviation 1
 gaussian = Gaussian(0, 1)
@@ -40,7 +40,7 @@ The Binomial class represents a binomial distribution, which models the probabil
 ### Example Usage:
 
 python
-from pydist import Binomial
+from pygauss_binomial import Binomial
 
 # Create a binomial distribution with probability 0.5 and number of trials 10
 binomial = Binomial(0.5, 10)
@@ -63,7 +63,7 @@ The Distribution class is a generic distribution class that serves as the base f
 ### Example Usage:
 
 python
-from pydist import Distribution
+from pygauss_binomial import Distribution
 
 # Create a generic distribution with mean 0 and standard deviation 1
 distribution = Distribution(0, 1)
@@ -78,8 +78,8 @@ stdev = distribution.calculate_stdev()
 
 ## Contribution
 
-Contributions to PyDist are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository: [https://github.com/mohaomar495/pydist](https://github.com/mohaomar495/pydist)
+Contributions to PyDist are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository: [https://github.com/mohaomar495/Python_projects](https://github.com/mohaomar495/Python_projects)
 
 ## License
 
-PyDist is licensed under the MIT License. See the [LICENSE](https://github.com/mohaomar495/pydist/license.txt) file for more details.
+PyDist is licensed under the MIT License. See the [LICENSE](https://github.com/mohaomar495/Python_projects/license.txt) file for more details.
