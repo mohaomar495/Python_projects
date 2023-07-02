@@ -1,0 +1,2 @@
+setuptools~=67.7.2
+matplotlib~=3.7.1

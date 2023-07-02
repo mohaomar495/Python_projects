@@ -1,0 +1,10 @@
+setup.py
+PyGauss_Binomial/BinomialDistribution.py
+PyGauss_Binomial/GaussianDistribution.py
+PyGauss_Binomial/GeneralDistribution.py
+PyGauss_Binomial/__init__.py
+PyGauss_Binomial.egg-info/PKG-INFO
+PyGauss_Binomial.egg-info/SOURCES.txt
+PyGauss_Binomial.egg-info/dependency_links.txt
+PyGauss_Binomial.egg-info/not-zip-safe
+PyGauss_Binomial.egg-info/top_level.txt
