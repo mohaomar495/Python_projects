@@ -82,4 +82,4 @@ Contributions to PyDist are welcome! If you encounter any issues or have suggest
 
 ## License
 
-PyDist is licensed under the MIT License. See the [LICENSE](https://github.com/mohaomar495/Binomial/Package/PyGauss_Binomial/license.txt) file for more details.
+PyDist is licensed under the MIT License. See the [LICENSE](https://github.com/mohaomar495/Binomial\Package/PyGauss_Binomial/license.txt) file for more details.
